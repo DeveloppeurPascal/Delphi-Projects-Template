@@ -1,5 +1,7 @@
 # Delphi-Projects-Template
 
+[Cette page en français.](LISEZMOI.md)
+
 A git template for my Delphi (or others) projects.
 
 This template is distributed under MIT license. The AGPL license is for projects I create from this code repository template. Use the license you want if you use the template.

@@ -1,5 +1,7 @@
 # Delphi-Projects-Template
 
+[This page in english.](README.md)
+
 Un modèle de dépôt git pour mes projets Delphi (ou autres).
 
 Ce template est distribué sous licence MIT. La licence AGPL est pour les projets que je crée à partir de ce template de dépôt de code. Utilisez la licence que vous voulez si vous utilisez ce template.
