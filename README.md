@@ -6,7 +6,7 @@ A git template for my Delphi (or others) projects.
 
 This template is distributed under MIT license. The AGPL license is for projects I create from this code repository template. Use the license you want if you use the template.
 
-You don't know what Delphi is and where to download it ? You'll learn more [on this web site](https://delphi-resources.developpeur-pascal.fr/).
+This code repository contains a project developed in Object Pascal language under Delphi. You don't know what Delphi is and where to download it ? You'll learn more [on this web site](https://delphi-resources.developpeur-pascal.fr/).
 
 ## Install
 
