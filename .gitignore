@@ -71,6 +71,7 @@ modules/
 # Mac Finder and Windows Explorer files
 .DS_Store
 Thumbs.db
+*.bak
 
 # Delphi compiler directories
 Win32/
