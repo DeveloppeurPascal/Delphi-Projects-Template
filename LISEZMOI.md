@@ -1,6 +1,6 @@
 # Delphi-Projects-Template
 
-[This page in english.](README.md)
+[This page in English.](README.md)
 
 **Un modèle de dépôt git pour mes projets Delphi (ou autres).**
 
