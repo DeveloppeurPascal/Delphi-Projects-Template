@@ -37,6 +37,7 @@ This project uses dependencies in the form of sub-modules. They will be absent f
 * [YYY](ZZZ) must be installed in the ./lib-externes/YYY subfolder.
 
 The project's technical documentation, generated with [DocInsight](https://devjetsoftware.com/products/documentation-insight/), is available in the ./docs folder and on [GitHub Pages](https://developpeurpascal.github.io/XXXXXXXXXX). Further information and related links are available on [the project website](https://BBB.developpeur-pascal.fr).
+
 The project's technical documentation, generated with [DocInsight](https://devjetsoftware.com/products/documentation-insight/), is available in the ./docs folder and on [GitHub Pages](https://developpeurpascal.github.io/XXXXXXXXXX). Further information and related links are available on [the project devlog](https://developpeur-pascal.fr/BBB.html).
 
 If you need explanations or help in using this project in your own, please [contact me](https://developpeur-pascal.fr/nous-contacter.php). I can either direct you to an online resource, or offer you assistance on a fee-for-service basis. You can also contact me at a conference or an online presentation.
@@ -60,7 +61,7 @@ You are free to use the contents of this code repository anywhere provided :
 * distribute the modifications made to the files provided in this AGPL-licensed project (leaving the original copyright notices (author, link to this repository, license) must be supplemented by your own)
 * to distribute the source code of your creations under the AGPL license.
 
-If this license doesn't suit your needs (especially for a commercial project) I also offer classic licenses for developers and companies. They are available from [the project website](https://BBB.developpeur-pascal.fr).
+If this license doesn't suit your needs (especially for a commercial project) I also offer [classic licenses for developers and companies](https://BBB.developpeur-pascal.fr).
 
 Some elements included in this repository may depend on third-party usage rights (images, sounds, etc.). They are not reusable in your projects unless otherwise stated.
 

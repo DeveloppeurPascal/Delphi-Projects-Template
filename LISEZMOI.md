@@ -37,6 +37,7 @@ Ce projet utilise des dépendances sous forme de sous modules. Ils seront absent
 * [YYY](ZZZ) doit être installé dans le sous dossier ./lib-externes/YYY
 
 La documentation technique du projet, générée avec [DocInsight](https://devjetsoftware.com/products/documentation-insight/), est disponible dans le dossier ./docs et sur [GitHub Pages](https://developpeurpascal.github.io/XXXXXXXXXX). D'autres informations et des liens connexes sont disponibles sur [le site web du projet](https://BBB.developpeur-pascal.fr).
+
 La documentation technique du projet, générée avec [DocInsight](https://devjetsoftware.com/products/documentation-insight/), est disponible dans le dossier ./docs et sur [GitHub Pages](https://developpeurpascal.github.io/XXXXXXXXXX). D'autres informations et des liens connexes sont disponibles sur [le devlog du projet](https://developpeur-pascal.fr/BBB.html).
 
 Si vous avez besoin d'explications ou d'aide pour utiliser ce projet dans les vôtres, n'hésitez pas à [me contacter](https://developpeur-pascal.fr/nous-contacter.php). Je pourrai soit vous orienter vers une ressource en ligne, soit vous proposer une assistance sous forme de prestation ou gratuite selon les cas. Vous pouvez aussi me faire signe à l'occasion d'une conférence ou d'une présentation en ligne.
@@ -60,7 +61,7 @@ Vous êtes libre d'utiliser le contenu de ce dépôt de code n'importe où à co
 * de diffuser les modifications apportées aux fichiers fournis dans ce projet sous licence AGPL (en y laissant les mentions de copyright d'origine (auteur, lien vers ce dépôt, licence) obligatoirement complétées par les vôtres)
 * de diffuser les codes sources de vos créations sous licence AGPL
 
-Si cette licence ne convient pas à vos besoins (notamment pour un projet commercial) je propose aussi des licences classiques pour les développeurs et les entreprises. Elles sont disponibles depuis [le site du projet](https://BBB.developpeur-pascal.fr).
+Si cette licence ne convient pas à vos besoins (notamment pour un projet commercial) je propose aussi [des licences classiques pour les développeurs et les entreprises](https://BBB.developpeur-pascal.fr)
 
 Certains éléments inclus dans ce dépôt peuvent dépendre de droits d'utilisation de tiers (images, sons, ...). Ils ne sont pas réutilisables dans vos projets sauf mention contraire.
 
