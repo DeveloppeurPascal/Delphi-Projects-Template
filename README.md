@@ -8,6 +8,14 @@
 
 This code repository contains a project developed in Object Pascal language under Delphi. You don't know what Delphi is and where to download it ? You'll learn more [on this web site](https://delphi-resources.developpeur-pascal.fr/).
 
+## Using this software
+
+Visit [the AAA website](https://BBB.olfsoftware.fr)  to download the compiled version, learn more about how it works, access videos and articles, find out about the different versions available and their features, contact user support...
+
+## Using this video game
+
+Visit [the AAA website](https://BBB.gamolf.fr)  to download the compiled version, learn more about how it works, access videos and articles, find out about the different versions available and their features, contact user support...
+
 ## Talks and conferences
 
 ### XXX 2024
@@ -19,20 +27,6 @@ This code repository contains a project developed in Object Pascal language unde
 
 Follow my development streams of software, video games, mobile applications and websites on [my Twitch channel](https://www.twitch.tv/patrickpremartin) or as replays on [Serial Streameur](https://serialstreameur.fr) mostly in French.
 
-## Using this software
-
-This software is available in a directly installable or executable production version. It is distributed as shareware.
-
-You can download and redistribute it free of charge, provided you do not modify its content (installer, program, additional files, etc.).
-
-[Download program or installer](DDD) (WIP)
-
-If you use this software regularly and are satisfied with it, you are invited to purchase an end-user license. Purchasing a license will give you access to software updates, as well as enabling optional features.
-
-[Buy a license](FFF) (WIP)
-
-You can also [visit the software website](EEE) to find out more about how it works, access videos and articles, find out about the different versions available and their features, contact user support...
-
 ## Source code installation
 
 To download this code repository, we recommend using "git", but you can also download a ZIP file directly from [its GitHub repository](https://github.com/DeveloppeurPascal/XXXXXXXXXX).
@@ -41,6 +35,11 @@ This project uses dependencies in the form of sub-modules. They will be absent f
 
 * [YYY](ZZZ) must be installed in the ./lib-externes/YYY subfolder.
 * [YYY](ZZZ) must be installed in the ./lib-externes/YYY subfolder.
+
+The project's technical documentation, generated with [DocInsight](https://devjetsoftware.com/products/documentation-insight/), is available in the ./docs folder and on [GitHub Pages](https://developpeurpascal.github.io/XXXXXXXXXX). Further information and related links are available on [the project website](https://BBB.developpeur-pascal.fr).
+The project's technical documentation, generated with [DocInsight](https://devjetsoftware.com/products/documentation-insight/), is available in the ./docs folder and on [GitHub Pages](https://developpeurpascal.github.io/XXXXXXXXXX). Further information and related links are available on [the project devlog](https://developpeur-pascal.fr/BBB.html).
+
+If you need explanations or help in using this project in your own, please [contact me](https://developpeur-pascal.fr/nous-contacter.php). I can either direct you to an online resource, or offer you assistance on a fee-for-service basis. You can also contact me at a conference or an online presentation.
 
 ## Compatibility
 
@@ -54,18 +53,18 @@ If you detect any anomalies on earlier versions, please don't hesitate to [repor
 
 ## License to use this code repository and its contents
 
-This source code is distributed under the [AGPL 3.0 or later license](https://choosealicense.com/licenses/agpl-3.0/).
+This source code is distributed under the [AGPL 3.0 or later](https://choosealicense.com/licenses/agpl-3.0/) license.
 
-You are generally free to use the contents of this code repository anywhere, provided that:
+You are free to use the contents of this code repository anywhere provided :
 * you mention it in your projects
-* distribute the modifications made to the files supplied in this project under the AGPL license (leaving the original copyright notices (author, link to this repository, license) which must be supplemented by your own)
+* distribute the modifications made to the files provided in this AGPL-licensed project (leaving the original copyright notices (author, link to this repository, license) must be supplemented by your own)
 * to distribute the source code of your creations under the AGPL license.
 
-If this license doesn't suit your needs, you can purchase the right to use this project under the [Apache License 2.0](https://choosealicense.com/licenses/apache-2.0/) or a dedicated commercial license ([contact the author](https://developpeur-pascal.fr/nous-contacter.php) to explain your needs).
+If this license doesn't suit your needs (especially for a commercial project) I also offer classic licenses for developers and companies. They are available from [the project website](https://BBB.developpeur-pascal.fr).
 
-These source codes are provided as is, without warranty of any kind.
+Some elements included in this repository may depend on third-party usage rights (images, sounds, etc.). They are not reusable in your projects unless otherwise stated.
 
-Certain elements included in this repository may be subject to third-party usage rights (images, sounds, etc.). They are not reusable in your projects unless otherwise stated.
+The source codes of this code repository as well as any compiled version are provided “as is” without warranty of any kind.
 
 ## How to ask a new feature, report a bug or a security issue ?
 
