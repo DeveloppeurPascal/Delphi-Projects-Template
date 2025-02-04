@@ -36,6 +36,8 @@ This project uses dependencies in the form of sub-modules. They will be absent f
 * [YYY](ZZZ) must be installed in the ./lib-externes/YYY subfolder.
 * [YYY](ZZZ) must be installed in the ./lib-externes/YYY subfolder.
 
+# Documentation and support
+
 The project's technical documentation, generated with [DocInsight](https://devjetsoftware.com/products/documentation-insight/), is available in the ./docs folder and on [GitHub Pages](https://developpeurpascal.github.io/XXXXXXXXXX). Further information and related links are available on [the project website](https://BBB.developpeur-pascal.fr).
 
 The project's technical documentation, generated with [DocInsight](https://devjetsoftware.com/products/documentation-insight/), is available in the ./docs folder and on [GitHub Pages](https://developpeurpascal.github.io/XXXXXXXXXX). Further information and related links are available on [the project devlog](https://developpeur-pascal.fr/BBB.html).
