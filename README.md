@@ -18,6 +18,11 @@ Visit [the AAA website](https://BBB.gamolf.fr)  to download the compiled version
 
 ## Talks and conferences
 
+### Online talk
+
+* [talk title](talk URL) (in English)
+* [talk title](talk URL) (in French)
+
 ### XXX 2024
 
 * [talk title](talk URL) (in English)

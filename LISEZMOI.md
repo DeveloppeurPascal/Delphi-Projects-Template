@@ -18,6 +18,11 @@ Consultez [le site de AAA](https://BBB.gamolf.fr) pour télécharger sa version 
 
 ## Présentations et conférences
 
+### Présentations en ligne
+
+* [talk title](talk url) (en anglais)
+* [talk title](talk url) (en français)
+
 ### XXX 2024
 
 * [talk title](talk url) (en anglais)
