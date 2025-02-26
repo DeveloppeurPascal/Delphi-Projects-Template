@@ -10,11 +10,11 @@ This code repository contains a project developed in Object Pascal language unde
 
 ## Using this software
 
-Visit [the AAA website](https://BBB.olfsoftware.fr)  to download the compiled version, learn more about how it works, access videos and articles, find out about the different versions available and their features, contact user support...
+Visit [the AAA website](https://BBB.olfsoftware.fr) to download the compiled version, learn more about how it works, access videos and articles, find out about the different versions available and their features, contact user support...
 
 ## Using this video game
 
-Visit [the AAA website](https://BBB.gamolf.fr)  to download the compiled version, learn more about how it works, access videos and articles, find out about the different versions available and their features, contact user support...
+Visit [the AAA website](https://BBB.gamolf.fr) to download the compiled version, learn more about how it works, access videos and articles, find out about the different versions available and their features, contact user support...
 
 ## Talks and conferences
 
