@@ -27,7 +27,7 @@
     </Output>
     <Output Type="CHM">
       <Active>true</Active>
-      <OutputFileName>.\YourProjectName.chm</OutputFileName>
+      <OutputFileName>..\YourProjectName.chm</OutputFileName>
     </Output>
     <Output Type="MSHELP2">
       <Active>false</Active>
