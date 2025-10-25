@@ -1,5 +1,5 @@
 > [!WARNING]
-Suite à la décision de Microsoft de fondre GitHub dans sa division IA à l'été 2025 et donc de ne considérer ce que nous publions dessus que comme une source d'entrainement de ses modèles sans contre partie (à part l'hébergement des codes sources) ou nous abreuver de leurs injonctions à utiliser Copilot partout, pour tout et n'importe quoi, j'ai pris la décision d'arrêter la maintenance des dépôts ici.
+> Suite à la décision de Microsoft de fondre GitHub dans sa division IA à l'été 2025 et donc de ne considérer ce que nous publions dessus que comme une source d'entrainement de ses modèles sans contre partie (à part l'hébergement des codes sources) ou nous abreuver de leurs injonctions à utiliser Copilot partout, pour tout et n'importe quoi, j'ai pris la décision d'arrêter la maintenance des dépôts ici.
 >
 > La maintenance de ce projet est déplacée vers Codeberg sur https://codeberg.org/PatrickPremartin/XXXXXXXXXX
 >
