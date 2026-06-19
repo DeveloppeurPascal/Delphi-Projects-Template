@@ -8,5 +8,5 @@
 > [!NOTE]
 > To open or work on a ticket for this project, go to https://codeberg.org/PatrickPremartin/XXXXXXXXXX/issues
 > To make a PULL REQUEST on this project, go to https://codeberg.org/PatrickPremartin/XXXXXXXXXX/pulls
-> For any other information or to contact me, you can also visit the project website at YYYYYYYYYYYYY or its devlog at ZZZZZZZZZZ.
+> For any other information or to contact me, you can also visit the project website at YYYYYYYYYYYYY or its devlog at ZZZZZZZZZZ
 > This code repository will be archived once the migration is complete and will no longer be updated on GitHub.
